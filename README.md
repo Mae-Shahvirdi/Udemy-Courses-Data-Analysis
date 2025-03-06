@@ -6,7 +6,6 @@ The dataset contains 3,670 courses, including attributes such as price, number o
 Through data cleaning, exploration, and visualization, we examine patterns in course pricing, the relationship between lectures and content duration, and the impact of pricing on subscriber count. 
 This analysis is performed in Python (Jupyter Notebook) and Tableau to provide interactive and visual insights.
 
-##
 
 ## Dataset Overview
 The dataset includes the following key attributes:
@@ -23,7 +22,6 @@ subject – Subject category of the course
 duration_per_lecture – Newly calculated feature: average duration per lecture
 price_category – Newly categorized variable: groups courses into pricing segments
 
-##
 
 ## Data Cleaning & Processing:
 Before analysis, several cleaning steps were applied to ensure accurate results:
@@ -64,7 +62,7 @@ Tableau – Interactive visual dashboards
 
 ## How to Use This Project
 Open df_cleaned.csv in Tableau to explore visual insights.
-Run udemy_analysis.ipynb in Jupyter Notebook for deeper analysis and Python-based visualizations.
+Run [udemy_analysis.ipynb]()in Jupyter Notebook for deeper analysis and Python-based visualizations.
 Modify price_category or duration_per_lecture logic if needed for more refined insights.
 
 ## Future Work
