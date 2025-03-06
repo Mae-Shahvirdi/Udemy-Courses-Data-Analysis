@@ -25,7 +25,7 @@ price_category – Newly categorized variable: groups courses into pricing segme
 
 ##
 
-# Data Cleaning & Processing
+## Data Cleaning & Processing:
 Before analysis, several cleaning steps were applied to ensure accurate results:
 
 ## Handling Outliers:
