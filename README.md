@@ -9,18 +9,18 @@ This analysis is performed in Python (Jupyter Notebook) and Tableau to provide i
 
 ## Dataset Overview
 The dataset includes the following key attributes:
-course_id – Unique identifier for each course
-course_title – Title of the course
-is_paid – Indicates if the course is free or paid
-price – Course price in USD
-num_subscribers – Total number of enrolled students
-num_reviews – Number of course reviews
-num_lectures – Total number of lectures in the course
-content_duration – Total length of the course (in hours)
-published_timestamp – Date when the course was published
-subject – Subject category of the course
-duration_per_lecture – Newly calculated feature: average duration per lecture
-price_category – Newly categorized variable: groups courses into pricing segments
+- course_id – Unique identifier for each course
+- course_title – Title of the course
+- is_paid – Indicates if the course is free or paid
+- price – Course price in USD
+- num_subscribers – Total number of enrolled students
+- num_reviews – Number of course reviews
+- num_lectures – Total number of lectures in the course
+- content_duration – Total length of the course (in hours)
+- published_timestamp – Date when the course was published
+- subject – Subject category of the course
+- duration_per_lecture – Newly calculated feature: average duration per lecture
+- price_category – Newly categorized variable: groups courses into pricing segments
 
 
 ## Data Cleaning & Processing:
