@@ -62,7 +62,7 @@ Tableau – Interactive visual dashboards
 
 ## How to Use This Project
 Open df_cleaned.csv in Tableau to explore visual insights.
-Run [udemy_analysis.ipynb](https://github.com/Mae-Shahvirdi/Udemy-Courses-Data-Analysis/blob/main/Udemy-Course.ipynb)in Jupyter Notebook for deeper analysis and Python-based visualizations.
+Run [udemy_analysis.ipynb](https://github.com/Mae-Shahvirdi/Udemy-Courses-Data-Analysis/blob/main/Udemy-Course.ipynb) in Jupyter Notebook for deeper analysis and Python-based visualizations.
 Modify price_category or duration_per_lecture logic if needed for more refined insights.
 
 ## Future Work
